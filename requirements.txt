@@ -3,6 +3,6 @@ matplotlib
 pandas
 numpy
 yfinance
-pickle
+pickle == '0.0.12'
 keras
 sklearn
